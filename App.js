@@ -25,7 +25,7 @@ const App = () => {
         </View>
         <TextInput
           style={{ height: 40, borderColor: "aqua", borderWidth: 1 }}
-          placeholder="Fill me Nigga!"
+          placeholder="Fill me, will ya please!"
         />
       </ScrollView>
     </SafeAreaProvider>
